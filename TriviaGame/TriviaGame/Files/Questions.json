@@ -1,5 +1,4 @@
-{
-  "Questions": [
+[
     {
       "Question": "Which is the largest ocean?",
       "CorrectAnswer": "Pacific",
@@ -45,5 +44,4 @@
       "CorrectAnswer": "Elephant",
       "IncorrectAnswers": [ "Human", "Rat", "Telephone" ]
     }
-  ]
-}
+]
