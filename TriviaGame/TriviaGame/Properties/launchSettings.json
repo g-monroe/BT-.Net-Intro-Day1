@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TriviaGame": {
+      "commandName": "Project",
+      "commandLineArgs": "0"
+    }
+  }
+}
